@@ -43,6 +43,14 @@ header{
     padding: 15px 0;
 }
 
+.scrolled .nav-menu li a{
+    color: #AA8453;
+}
+
+.scrolled .logo a{
+    color: #AA8453;
+}
+
 .header-inner{
     display: flex;
     justify-content: space-between;
